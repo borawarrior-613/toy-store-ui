@@ -96,15 +96,3 @@ class ItemDisplayWidget extends StatelessWidget {
     );
   }
 }
-/*                          clicked == true
-                              ? Align(
-                                  alignment: Alignment.centerRight,
-                                  child: Text(
-                                    "$price",
-                                    style: GoogleFonts.montserrat(
-                                      fontSize: 20,
-                                      fontWeight: FontWeight.w700,
-                                    ),
-                                  ),
-                                )
-                              : Container(),*/
